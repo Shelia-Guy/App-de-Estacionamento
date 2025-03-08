@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="public" author="true" classpath="C:\Users\SHELIA\OneDrive\Desktop\mysql-connector-j-9.2.0.jar;C:\Users\SHELIA\Downloads\com.jgoodies.forms.source_1.9.0.v20240327-0800.jar;C:\Users\SHELIA\Downloads\com.jgoodies.common_1.8.1.v20240327-0800.jar" destdir="doc" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="estacionamento.utilitario,estacionamento.negocio,estacionamento.persistencia,estacionamento.apresentacao,estacionamento.controle" source="22" sourcefiles="src/module-info.java" sourcepath="src" splitindex="true" use="true" version="true">
+            <link href="https://docs.oracle.com/en/java/javase/22/docs/api/"/>
+        </javadoc>
+    </target>
+</project>
